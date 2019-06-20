@@ -15,3 +15,7 @@ The data maps a small image to a 1920 * 1080 zero map, mapping it in the upper l
 # Third Data Argumentation (2019. 05. 27)
 
 New Data Argumentation code registered! this code image cropping random, and checked overlapped or not with ground truth and save cropped image as it's label
+
+# Preprocessing for Object Detection API (2019.06.20)
+
+For my studying, code writed for very easy to read
