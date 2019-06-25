@@ -19,3 +19,7 @@ New Data Argumentation code registered! this code image cropping random, and che
 # Preprocessing for Object Detection API (2019.06.20)
 
 For my studying, code writed for very easy to read
+
+# Class TF (2019.06.25)
+
+Study using class in my tensorflow code
