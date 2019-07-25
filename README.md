@@ -23,3 +23,7 @@ For my studying, code writed for very easy to read
 # Class TF (2019.06.25)
 
 Study using class in my tensorflow code
+
+# Studying All ways to make batch_normalization in tensorflow
+
+Want to make style transfer but very many way to make it so i testing all about it
