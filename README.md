@@ -24,6 +24,6 @@ For my studying, code writed for very easy to read
 
 Study using class in my tensorflow code
 
-# Studying All ways to make batch_normalization in tensorflow
+# Studying All ways to make batch_normalization in tensorflow(2019. 07. 25)
 
 Want to make style transfer but very many way to make it so i testing all about it
