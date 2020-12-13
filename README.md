@@ -27,3 +27,8 @@ Study using class in my tensorflow code
 # Studying All ways to make batch_normalization in tensorflow(2019. 07. 25)
 
 Want to make style transfer but very many way to make it so i testing all about it
+
+
+# Studying Keras For Lab Seminar
+
+Studying Keras For Lab Seminar
