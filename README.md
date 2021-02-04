@@ -32,3 +32,7 @@ Want to make style transfer but very many way to make it so i testing all about 
 # Studying Keras For Lab Seminar(2020. 12. 13)
 
 Studying Keras For Lab Seminar
+
+# Studying PDF to Text using Python(2021. 02. 04)
+
+Studying PDF to Text for project
